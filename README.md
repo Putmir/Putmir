@@ -43,8 +43,7 @@
   </tr>
 </table>
 
-#### Github Stats
-<div style="display: flex; flex-direction: row;">
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=ajlee1976&count_private=true&theme=github_dark_dimmed&show_icons=true&hide_title=true&rank_icon=github" />
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajlee1976&theme=github_dark_dimmed&langs_count=10" />
+<div style="display: flex; flex-direction: row;" align="center">
+  <img align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=ajlee1976&count_private=true&theme=github_dark_dimmed&show_icons=true&rank_icon=github" />
+  <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajlee1976&theme=github_dark_dimmed&langs_count=10" />
 </div>
