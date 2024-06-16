@@ -5,8 +5,8 @@
 
 ### Other Projects
 * Politics and War - An online "Nation/Politics Simulator". Initially created by [Alex](https://github.com/ajwinchell), I am now a maintainer and developer of the game.  
- * [Politics and War - Game](https://politicsandwar.com/)
- * [Politics and War - GraphQL API](https://api.politicsandwar.com/graphql-playground)
+  * [Politics and War - Game](https://politicsandwar.com/)
+  * [Politics and War - GraphQL API](https://api.politicsandwar.com/graphql-playground)
 
 ### My Tech Stack
 <table>
